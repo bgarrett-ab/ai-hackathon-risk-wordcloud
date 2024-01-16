@@ -22,7 +22,7 @@ OAI_SEARCH_IDX="wordcloud-idx5"
 Ask Blaine for environment vars if needed. 
 
 
-# Populating Data
+# Generating Wordcloud Data
 We need to convert the assessment response data into a narrative format that openAI can understand. To do so, we connect to the ADA database to fetch the denormalized response data, lightly process, and dump into `sample_data.txt`. This then needs to be uploaded to the Azure Open AI index for indexing and consumption. 
 
 ```Protip: To avoid caching of the index, create a new index for each upload. ```
