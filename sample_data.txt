@@ -1,0 +1,2305 @@
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "These numbers do not make sense".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "These numbers do not make sense".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 7.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Nothing to see here".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This is critical".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Very Low") with the comment "This flew under the radar".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Cory Robinson Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Cory Robinson Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This is critical".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "We are aware of fraud".
+
+
+
+User John Davis Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This is critical".
+
+
+
+User John Davis Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User John Davis Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "This needs to be addressed right away".
+
+
+
+User Amber Thomas Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "Nothing to see here".
+
+
+
+User Amber Thomas Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "Everything is great".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Amber Thomas Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk Rating" with a score of 3.0000 ("Very Low") with the comment "This risk is critical".
+They responsed to the survey question "Average Impact Score" with a score of 1.0000 ("Very Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+
+
+
+User Aaron Clark Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Aaron Clark Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Very Low") with the comment "Everything is great".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Aaron Clark Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is critical".
+
+
+
+User Mike Davis Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+
+
+
+User Mike Davis Submitted their Risk assement survey for the "2023 Software Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "Everything is great".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "We are not aware of fraud".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "This is critical".
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk" with a score of 6.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk" with a score of 16.0000 ("High") with the comment "Accounting will need to look at this more later".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 6.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+
+
+
+User Helena Hall Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 14.0000 ("Moderate") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk" with a score of 15.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 0.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk" with a score of 5.0000 ("Low") with the comment "This needs to be addressed right away".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("High") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "This needs to be addressed right away".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 3.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Aaron Clark Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "We are aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("High") with the comment "Nothing to see here".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk" with a score of 5.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 1.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Residual Risk" with a score of 0.0000 ("Low") with the comment "These numbers do not make sense".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk" with a score of 10.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("High") with the comment "This is critical".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "This risk is critical".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 1.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 0.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "These numbers do not make sense".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "These numbers do not make sense".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "This is critical".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This is critical".
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Laura Wilson Submitted their Risk assement survey for the "2023 Enterprise Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 8.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "These numbers do not make sense".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2023 Oracle RCSA" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2023 Oracle RCSA" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 7.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Low") with the comment "This is critical".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2023 Oracle RCSA" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 20.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 16.0000 ("High") with the comment "These numbers do not make sense".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2023 Oracle RCSA" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 16.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2022 Oracle RCSA" assessment on 2023-04-17 12:53:19.868000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 11.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2022 Oracle RCSA" assessment on 2023-04-17 12:53:19.868000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Very Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk" with a score of 6.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2022 Oracle RCSA" assessment on 2023-04-17 12:53:19.868000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 18.0000 ("High") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk" with a score of 20.0000 ("High") with the comment "This is critical".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2022 Oracle RCSA" assessment on 2023-04-17 12:53:19.868000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 9.0000 ("Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2022 Oracle RCSA" assessment on 2023-04-17 12:53:19.868000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 15.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User Jonathan Lewis Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This is critical".
+
+
+
+User Jennifer Clark Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Jonathan Lewis Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Jennifer Clark Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 14.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "Everything is great".
+
+
+
+User Jennifer Clark Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This is critical".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We are aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "Everything is great".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Residual Risk" with a score of 11.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 7.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This risk is critical".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "Nothing to see here".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "Everything is great".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This risk is critical".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("Very High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This is critical".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 22.0000 ("Very High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This risk is critical".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+
+
+
+User Claudia Moore Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of -2.0000 ("Very Low") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 2.0000 ("Very Low") with the comment "This flew under the radar".
+They responsed to the survey question "Average Impact Score" with a score of 1.0000 ("Very Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Claudia Moore Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of 18.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "We are aware of fraud".
+
+
+
+User Claudia Moore Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Claudia Moore Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 15.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 11.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("Very High") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This risk is totally mitigated.".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "Accounting will need to look at this more later".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "This is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 15.0000 ("High") with the comment "Accounting will need to look at this more later".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "Everything is great".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 18.0000 ("High") with the comment "Everything is great".
+
+
+
+User Jay Lee Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Nothing to see here".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 15.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 9.0000 ("Moderate") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We are not aware of fraud".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 2.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("Very High") with the comment "This flew under the radar".
+
+
+
+User Jennifer Clark Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 22.0000 ("Very High") with the comment "This is critical".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This needs to be addressed right away".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Jonathan Lewis Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 19.0000 ("Very High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Jonathan Lewis Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Linda Jackson Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 9.0000 ("Moderate") with the comment "These numbers do not make sense".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2021 AWS Risk Assessment" assessment on 2023-04-11 17:53:26.981000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 3.0000 ("Very Low") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of -2.0000 ("Very Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "Nothing to see here".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("Very High") with the comment "This flew under the radar".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "Accounting will need to look at this more later".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "We are not aware of fraud".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We are not aware of fraud".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "These numbers do not make sense".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 15.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "We are not aware of fraud".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Accounting will need to look at this more later".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We are not aware of fraud".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 9.0000 ("Moderate") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This flew under the radar".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "Nothing to see here".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 2.0000 ("Very Low") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("Very High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This flew under the radar".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 22.0000 ("Very High") with the comment "This is critical".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "This could ruin our business".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "We are aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("Very High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "These numbers do not make sense".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This flew under the radar".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This is critical".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "This is critical".
+
+
+
+User Jennifer Clark Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "Everything is great".
+
+
+
+User Jennifer Clark Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "Nothing to see here".
+
+
+
+User Jennifer Clark Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 22.0000 ("Very High") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "These numbers do not make sense".
+
+
+
+User Jennifer Clark Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 14.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This risk is critical".
+
+
+
+User Claudia Moore Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Claudia Moore Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 1.0000 ("Very Low") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 2.0000 ("Very Low") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of -2.0000 ("Very Low") with the comment "This risk is critical".
+
+
+
+User Claudia Moore Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 18.0000 ("High") with the comment "This flew under the radar".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Claudia Moore Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This risk is critical".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This needs to be addressed right away".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 25.0000 ("Very High") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("Very High") with the comment "This risk is totally mitigated.".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 11.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "Accounting will need to look at this more later".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 18.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "We are not aware of fraud".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Jay Lee Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Jonathan Lewis Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Jonathan Lewis Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 19.0000 ("Very High") with the comment "We are aware of fraud".
+
+
+
+User Jonathan Lewis Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Jonathan Lewis Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "This flew under the radar".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 7.0000 ("Low") with the comment "This is critical".
+
+
+
+User Linda Jackson Submitted their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "Everything is great".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This is critical".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 9.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "Everything is great".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 11.0000 ("Moderate") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 15.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 15.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of -2.0000 ("Very Low") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 3.0000 ("Very Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Allen Chavez Open their AuditableEntityRisk assement survey for the "2023 AWS Risk Assessment" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 13.0000 ("Very High") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "This is critical".
+
+
+
+User Andrew Lewis Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 13.0000 ("Very High") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 14.0000 ("Very High") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 15.0000 ("Very High") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 13.0000 ("Very High") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2023" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "This is critical".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 13.0000 ("Very High") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "This is critical".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 10.0000 ("High") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 12.0000 ("High") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2022" assessment on 2023-03-20 13:34:14.762000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 11.0000 ("High") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 9.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2021" assessment on 2023-03-20 13:33:11.457000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We're doing this wrong.".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "This is critical".
+
+
+
+User Andrew King Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This is critical".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 8.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Anthony Anderson Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Daniel Kim Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This is critical".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alexus Garcia Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "This is critical".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 5.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 7.0000 ("Moderate") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 6.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "We're doing this wrong.".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 3.0000 ("Very Low") with the comment "This could ruin our business".
+
+
+
+User Alayna Walker Submitted their EsgTopic assement survey for the "ESG Materiality Assessment- 2020" assessment on 2023-03-20 13:31:03.468000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Overall Materiality" with a score of 4.0000 ("Low") with the comment "This is critical".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2022" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 16.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Residual Risk" with a score of 12.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2022" assessment on None. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "We are aware of fraud".
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 17.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk" with a score of 20.0000 ("High") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Very Low") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk" with a score of 8.0000 ("Low") with the comment "Accounting will need to look at this more later".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Low") with the comment "Accounting will need to look at this more later".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 6.0000 ("Low") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Very Low") with the comment "This could ruin our business".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("Very High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Residual Risk" with a score of 22.5000 ("Very High") with the comment "This flew under the radar".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Very Low") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Low") with the comment "We are aware of fraud".
+
+
+
+User Daniel Kim Submitted their AuditableEntityRisk assement survey for the "Accounting & Finance | RCSA | 2021" assessment on 2023-02-03 17:58:58.034000-06:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Very Low") with the comment "This flew under the radar".
+They responsed to the survey question "Inherent Risk" with a score of 6.0000 ("Low") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 6.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "Everything is great".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "This needs to be addressed right away".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 10.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "This flew under the radar".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 0.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Inherent Risk" with a score of 1.0000 ("Low") with the comment "Nothing to see here".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 5.0000 ("Low") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "We are not aware of fraud".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "These numbers do not make sense".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "These numbers do not make sense".
+
+
+
+User Violet Cooper Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 1.0000 ("Low") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 0.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This needs to be addressed right away".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "Accounting will need to look at this more later".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "This is critical".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "These numbers do not make sense".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk" with a score of 4.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Landon Matthews Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We are not aware of fraud".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "This is critical".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 5.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 0.0000 ("Low") with the comment "This risk is critical".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Low") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk" with a score of 3.0000 ("Low") with the comment "This risk is critical".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+
+
+
+User Allen Chavez Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "We are not aware of fraud".
+They responsed to the survey question "Residual Risk" with a score of 20.0000 ("High") with the comment "This risk is totally mitigated.".
+
+
+
+User Laura Wilson Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 8.0000 ("Moderate") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Low") with the comment "Everything is great".
+
+
+
+User Daniel Kim Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk" with a score of 15.0000 ("Moderate") with the comment "This flew under the radar".
+They responsed to the survey question "Residual Risk" with a score of 14.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Aaron Clark Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 23.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk" with a score of 25.0000 ("High") with the comment "This flew under the radar".
+
+
+
+User Helena Hall Submitted their Risk assement survey for the "2022 Enterprise Risk Assessment" assessment on 2023-05-09 08:49:31.723000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Low") with the comment "This is critical".
+They responsed to the survey question "Inherent Risk" with a score of 9.0000 ("Moderate") with the comment "This could ruin our business".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This needs to be addressed right away".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "This is critical".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Very Low") with the comment "This could ruin our business".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 10.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This risk is critical".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 2.0000 ("Very Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 3.0000 ("Very Low") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This needs to be addressed right away".
+
+
+
+User Jay Lee Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 2.0000 ("Very Low") with the comment "This is critical".
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Very Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 1.0000 ("Very Low") with the comment "This risk is critical".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 3.0000 ("Very Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 4.0000 ("Very Low") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 1.0000 ("Very Low") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 3.0000 ("Very Low") with the comment "This needs to be addressed right away".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 18.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This needs to be addressed right away".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "Nothing to see here".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 5.0000 ("Low") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "This risk is critical".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Nothing to see here".
+They responsed to the survey question "Residual Risk" with a score of 15.0000 ("High") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "Everything is great".
+They responsed to the survey question "Residual Risk" with a score of 8.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "Accounting will need to look at this more later".
+
+
+
+User Violet Cooper Open their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 9.0000 ("Low") with the comment "We're doing great. This risk is a non issue".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "Accounting will need to look at this more later".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This flew under the radar".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Very Low") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 4.0000 ("Very Low") with the comment "This risk is totally mitigated.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 8.0000 ("Low") with the comment "Everything is great".
+They responsed to the survey question "Average Impact Score" with a score of 2.0000 ("Low") with the comment "These numbers do not make sense".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 7.0000 ("Low") with the comment "This risk is totally mitigated.".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 11.0000 ("Moderate") with the comment "This could have major impact on our next quarter goals.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This risk is critical".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 17.0000 ("High") with the comment "Everything is great".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This risk is critical".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could have major impact on our next quarter goals.".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 10.0000 ("Moderate") with the comment "We are not aware of fraud".
+They responsed to the survey question "Inherent Risk Rating" with a score of 12.0000 ("Moderate") with the comment "We are aware of fraud".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This could ruin our business".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 17.0000 ("High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Average Impact Score" with a score of 5.0000 ("Very High") with the comment "This needs to be addressed right away".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "We're doing ok. We shoud look at this.".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Residual Risk" with a score of 13.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Inherent Risk Rating" with a score of 16.0000 ("High") with the comment "These numbers do not make sense".
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "This flew under the radar".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 4.0000 ("High") with the comment "We're doing ok. We shoud look at this.".
+They responsed to the survey question "Inherent Risk Rating" with a score of 20.0000 ("Very High") with the comment "This risk is critical".
+They responsed to the survey question "Residual Risk" with a score of 17.0000 ("High") with the comment "Everything is great".
+
+
+
+User Steve Sig Submitted their Risk assement survey for the "2022 Software Risk Assessment" assessment on 2023-04-21 18:53:54.121000-05:00. The source of this assessment was an Interview.
+They responsed to the survey question "Average Impact Score" with a score of 3.0000 ("Moderate") with the comment "This could ruin our business".
+They responsed to the survey question "Residual Risk" with a score of 6.0000 ("Low") with the comment "This risk is critical".
+They responsed to the survey question "Inherent Risk Rating" with a score of 9.0000 ("Low") with the comment "We're doing ok. We shoud look at this.".
+
